@@ -1,0 +1,2 @@
+# Determinate
+CodeWars Kata
